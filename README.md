@@ -60,7 +60,7 @@ Cliquez sur les boutons correspondants pour effectuer vos calculs.
 
 1. Clonez ce dépôt :
 ```bash
-git clone [URL_DU_DEPOT]
+git clone git@github.com:rmiazoloh/calculator.git
 ```
 
 2. Ouvrez le fichier `index.html` dans votre navigateur
