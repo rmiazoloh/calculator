@@ -12,9 +12,9 @@ const CALCULATOR_INPUT = {
 }
 
 const ERROR_MESSAGES = {
-    DIVISION_BY_ZERO: 'Cannot divide by 0',
-    INVALID_INPUT: 'Your operation should use only numbers',
-    PREMATURE_EQUALS: 'You should enter the operation (at least two numbers and the sign) before clicking the equal button'
+    DIVISION_BY_ZERO: 'NAN',
+    INVALID_INPUT: 'NAN',
+    PREMATURE_EQUALS: 'NAN'
 };
 
 // Classe Calculator : gère la logique de la calculette
